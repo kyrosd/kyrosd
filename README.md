@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello my name is Kyros Dailey and I a looking forward to learning more about Git
 
 <!--
 **kyrosd/kyrosd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
